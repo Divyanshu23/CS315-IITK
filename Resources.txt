@@ -1,0 +1,3 @@
+Normalization - Jenny'S Lectures
+Dynamic Hashing - Douglas Fisher, GfG Article
+B Tres - Abdul Bari
